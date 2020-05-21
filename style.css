@@ -1,0 +1,36 @@
+body {
+  cursor: url(./images/cursor.png), auto;
+  margin: 0;
+  box-sizing: border-box;
+  padding: 60px;
+  height: 100vh;
+  width: 100vw;
+}
+
+h1 {
+  margin: 0 0 30px 0;
+  font-family: VT323;
+  font-size: 50px;
+}
+
+h2 {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  display: inline-block;
+  font-size: 20px;
+  margin: 10px;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+li {
+  margin-bottom: 0px;
+}
+
+.emoji-li {
+  font-size: 23px;
+  margin-right: 10px;
+}
